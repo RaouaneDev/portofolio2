@@ -1,0 +1,12 @@
+.home{
+    background-image: url("https://images.pexels.com/photos/574069/pexels-photo-574069.jpeg?auto=compress&cs=tinysrgb&w=600" )  ;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    
+}
+button:hover{
+    background-color: rgb(22, 24, 24) !important;
+    color: white !important;
+}
